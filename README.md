@@ -5,6 +5,7 @@ My ESP32 learning repository with small practical projects, notes and code examp
 ## Projects
 
 - [01-wifi-access-point](./01-wifi-access-point.md)
+- [02-web-server](./02-web-server.md)
 
 ## Goal
 
