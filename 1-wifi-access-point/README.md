@@ -30,7 +30,7 @@ The ESP32 successfully created its own Wi-Fi network, and the phone was able to 
 ## Code
 The Arduino sketch for this step is stored in:
 
-`wifi_access_point.ino`
+[wifi_access_point.ino](./wifi_access_point.ino).
 
 ## Notes
 This is the first ESP32 Wi-Fi step before moving to a web server project.
