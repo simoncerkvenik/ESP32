@@ -1,14 +1,14 @@
 # ESP32
 
-A collection of small ESP32 learning projects and experiments.
+My ESP32 learning repository with small practical projects, notes and code examples.
 
 ## Projects
 
-- [1-wifi-access-point](./1-wifi-access-point/README.md)
+- [01-wifi-access-point](./01-wifi-access-point.md)
 
 ## Goal
 
-Build practical ESP32 knowledge step by step through small hands-on projects.
+Learn ESP32 step by step through hands-on testing, small projects and simple IoT experiments.
 
 ## Topics
 
